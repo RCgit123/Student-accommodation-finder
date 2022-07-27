@@ -1,2 +1,8 @@
-# Student-accommodation-finder
-This project helps a student find a accommodation based on his preferences like food, money etc.. 
+# Student-accommodation-finder using geolocational analysis
+Please refer to the above project pdf for complete details about the project
+# Introduction
+In this fast moving, effort intensive environment where a student inhabits brings in a lot of challenges or difficulties ahead of a student. Now a days its very common among the students to opt for distant education. There are also problems associate with distant eduction, if I pickup a basic problem that every student face’s which is cooking meals. It’s a frequent occurrence that one is too tired to fix oneself a home-cooked meal. And of course, even if one gets home-cooked meals every day, it is not unusual to want to go out for a good meal every once in a while for social/recreational purposes. Either way, it’s a commonly understood idea that regardless of where one lives, the food one eats is an important aspect of the lifestyle one leads. 
+Now, imagine a scenario where a student has newly moved into a new location. That student already have certain preferences, certain tastes. It would be convenient for the student if the food providers are located nearby. Also, the departmental stores, restaurants, fruits stalls etc.. if all these are present nearby then it would save time and money for the student.
+# Objective 
+So to address this problem this project is built which involves the use of K-Means Clustering to find the best accommodation for students in Bangalore (or any other city of your choice) by classifying accommodation for incoming students on the basis of their preferences on amenities, budget and proximity to the location. 
+Note: Here we have used only the Bangalore city to find the accommodation.
